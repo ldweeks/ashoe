@@ -5,4 +5,4 @@
 
 ----
 
-* [1. The Jesuits Characterized](content.md#chapter-2)
+* [1. The Jesuits Characterized](1.md)
