@@ -3,7 +3,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Educational Systems Compared</a></li>
+        <li><a href="https://www.warhornmedia.com/"><img src="images/warhornlogo.png" width="260"></a></li>
+        <li><a href="./">Puritans & Jesuits: Educational Systems Compared</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/ldweeks/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared/edit/master/%s

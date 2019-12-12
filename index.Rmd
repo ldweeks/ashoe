@@ -14,12 +14,27 @@ cover-image: "images/cover.jpg"
 url: 'https\://beggarsborn.com/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared/'
 ---
 
-# Cover {-}
+# [A Warhorn Historicals Book](https://historicals.warhornmedia.com/) {-}
 
+<center>
+
+![](images/warhornlogo.png){ width=50% }
+
+Republished by Warhorn Historicals: 
+Making historical books available for free online in high quality, readable formats. 
+
+</center>
+
+We hope this book is a blessing to you. If it is, please [make a one-time or recurring contribution](https://warhornmedia.com/give) right now, sponsor a book from our upcoming list, or volunteer your proofreading or technical skills to help produce more content. Contact us [Lucas Weeks](mailto:lucas@beggarsborn.com) to get involved.
+
+God bless,
+
+—The Warhorn Team
+
+#### Historical Cover {-}
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://archive.org/details/educationalsyste00portrich'}
 knitr::include_graphics('images/cover.jpg', dpi = NA)
 ```
-
 
 # Introduction {-}
 
