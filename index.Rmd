@@ -10,7 +10,16 @@ biblio-style: apalike
 link-citations: yes
 github-repo: ldweeks/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared
 description: "This book was a real disappointment. It was interesting in parts, but it didn't tell me much of anything about the educational system of the Jesuits. It seems like Noah Porter was and is considered to be something of a crank, and that's how he comes off in this essay."
+cover-image: "images/cover.jpg"
+url: 'https\://beggarsborn.com/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared/'
 ---
+
+# Cover {-}
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://archive.org/details/educationalsyste00portrich'}
+knitr::include_graphics('images/cover.jpg', dpi = NA)
+```
+
 
 # Introduction {-}
 
