@@ -1,0 +1,5 @@
+# Forward
+
+Each chapter in this book will be prefaced by an *Outline,* or generalized statement of the ideas to be included in it. Logically such an epitome is needed at the beginning as well as at the end of the chapter. At the beginning, it serves as a hypothetical or tentative generalization of the facts; at the end, as a conclusion whose truth has been tested in the light of these facts and accepted with conviction.
+
+By having this outline in mind when he studies the facts, the student is enabled not only to see that the general statements are verified and made more significant by the details, but at the same time to organize the facts with reference to the generalization, and thereby secure an easier control of them, and, through the relation of each to the others, discover a fuller meaning in them all. Then, after this study of the details has established the truth of the outline and enriched its meaning, he can review the outline and fix it in mind as the conclusion of the chapter.
