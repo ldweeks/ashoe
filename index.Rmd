@@ -1,17 +1,17 @@
 --- 
-title: "The Educational Systems of the Puritans and Jesuits Compared"
-author: "Rev. Noah Thomas Porter, III"
-date: "1851"
+title: "A Student's History of Education"
+author: "Frank Pierrepont Graves"
+date: "1916"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: ldweeks/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared
-description: "This book was a real disappointment. It was interesting in parts, but it didn't tell me much of anything about the educational system of the Jesuits. It seems like Noah Porter was and is considered to be something of a crank, and that's how he comes off in this essay."
-cover-image: "images/cover.jpg"
-url: 'https\://beggarsborn.com/The-Educational-Systems-of-the-Puritans-and-Jesuits-Compared/'
+github-repo: ldweeks/ashoe
+description: ""
+cover-image: ""
+url: 'https\://beggarsborn.com/ashoe/'
 ---
 
 # [A Warhorn Historicals Book](https://historicals.warhornmedia.com/) {-}
@@ -38,6 +38,4 @@ knitr::include_graphics('images/cover.jpg', dpi = NA)
 
 # Introduction {-}
 
-“The Jesuit” and “the Puritan" are names of principles rather than of men. They do not so appropriately designate sects and parties, as they describe opposite tendencies in character and institutions. These principles and tendencies are not, on the one hand, confined to "the Society of Jesus," nor on the other, to the Puritan party; though they are most perfectly represented in each. The Romish church was the natural mother of the Jesuit; his principles and spirit were already in being within her pale. He only separated them from their incongruous and inconsistent elements of good, and applied them with a consistency that was fearfully rigid. It would seem, that every peculiarity by which the Romish system is distinguished from the Christianity of the New Testament, is represented in the society of Loyola. On the contrary, the Puritan is no more than a consistent Protestant. His principles are those, and only those, which gave being and life to the Reformation. He has only understood them more clearly, applied them more consistently, and acted them out with a more heroic spirit.
-
-It will be important to keep in mind the import of these names, as thus explained, in the comparison which we propose to institute between the Puritan and the Jesuit systems of education. This only will save us from a narrow and partisan view of the subject, and will lead us to study principles rather than names. Let it be understood, then, once for all, that by the Jesuit system of education, we intend the system most perfectly represented in the institutions of the Jesuits, in whatever schools it is found, whether Protestant or Romish, whether developed in whole or in part. By the Puritan system we mean, the one generally adopted in Protestant schools and universities, but which, in some of its features has been most completely realized in the educational institutes of the Puritans.
+This is the introduction
