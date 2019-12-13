@@ -10,7 +10,6 @@ biblio-style: apalike
 link-citations: yes
 github-repo: ldweeks/ashoe
 description: ""
-cover-image: ""
 url: 'https\://beggarsborn.com/ashoe/'
 ---
 
