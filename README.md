@@ -22,7 +22,7 @@ This book, entitled "A Student's History of Education," is by Frank Graves. It w
 * ~~Chapter 15~~
 * ~~Chapter 16~~
 * Chapter 17
-* Chapter 18
+* ~~Chapter 18~~
 * Chapter 19
 * Chapter 20
 * ~~Chapter 21~~
